@@ -1,0 +1,17 @@
+{
+  "name": "facebook-clone-tailwind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "vite": "^5.3.3"
+  }
+}
